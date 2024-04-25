@@ -9,7 +9,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Set up your Google Generative AI API key as an environment variable (see "Set up your API key" section below).
-4. Run the script using `node movie_chatbot.js`.
+4. Run the script using `node history.js` or `node historySecondMethod.js`.
 
 ### Set up your API key
 
@@ -20,7 +20,7 @@ Before running the script, you need to obtain an API key from Google Generative 
 
 ## Usage
 
-1. Run the script using `node movie_chatbot.js`.
+1. Run the script using `node history.js` or `node historySecondMethod.js`.
 2. Follow the prompts to interact with the chatbot.
 3. Enter the movie title and release year in JSON format when prompted.
 4. The chatbot will respond with the movie description and recommendations.
@@ -164,6 +164,4 @@ Text: договарились! напишите пожалуйста сдела
 **Рекомендация:**
 "45 лет" — это мастерски снятый и сыгранный фильм, который исследует сложную динамику долгосрочных отношений. Его трогательный сценарий, глубокие персонажи и проницательная режиссура делают его обязательным к просмотру для всех, кто когда-либо боролся с потерями или переоценивал свой жизненный путь.
 
-**Дополнительные данные:**
-- Отсутствующие названия и годы выпуска фильмов в предоставленном вами списке не позволяют мне предоставить описания и рекомендации для них.
 Введите ваш запрос (для завершения введите 'стоп'):
