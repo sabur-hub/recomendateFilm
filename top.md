@@ -1,4 +1,4 @@
-data top 10 recomedate i taked from git hub Mirzoev-Parviz
+data api top 10 recomedate i taked from git hub Mirzoev-Parviz 
 PS D:\projects\movie-recommendation\cmd> go run .\main.go
 App started...
 [GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
