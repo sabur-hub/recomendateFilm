@@ -2,7 +2,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const readline = require("readline");
 
 // Access your API key as an environment variable (see "Set up your API key" above)
-const genAI = new GoogleGenerativeAI('AIzaSyB-qTBRb0Z4CqkzngZ3k4UKheXrjIDP_eU');
+const genAI = new GoogleGenerativeAI('№');
 let jsonData; // Объявляем переменную для хранения данных
 
 fetch('http://localhost:8080/recommendations', {
