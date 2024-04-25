@@ -1,1 +1,1 @@
-#in general, you can make recommendations based on different criteria of our json, so this is a universal code that makes recommendations on title_orig and release_year
+# in general, you can make recommendations based on various criteria of our json, so this is a universal code, at the moment it gives recommendations on title_orig and release_year to get various recommendations on the movie, change the user_id of the user and various criteria from the json recommendation
